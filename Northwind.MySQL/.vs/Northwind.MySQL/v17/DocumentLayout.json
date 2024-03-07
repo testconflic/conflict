@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2024\\ASP.NET\\Northwind.MySQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|e:\\2024\\asp.net\\northwind.mysql\\northwind.mysql\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|solutionrelative:northwind.mysql\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|e:\\2024\\asp.net\\northwind.mysql\\northwind.mysql\\data\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|solutionrelative:northwind.mysql\\data\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|e:\\2024\\asp.net\\northwind.mysql\\northwind.mysql\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|solutionrelative:northwind.mysql\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|e:\\2024\\asp.net\\northwind.mysql\\northwind.mysql\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|solutionrelative:northwind.mysql\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|e:\\2024\\asp.net\\northwind.mysql\\northwind.mysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|solutionrelative:northwind.mysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|e:\\2024\\asp.net\\northwind.mysql\\northwind.mysql\\northwind.mysql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|solutionrelative:northwind.mysql\\northwind.mysql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|e:\\2024\\asp.net\\northwind.mysql\\northwind.mysql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20851116-D94E-4934-9697-834C1E1225A8}|Northwind.MySQL\\Northwind.MySQL.csproj|solutionrelative:northwind.mysql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Northwind.MySQL\\Models\\Order.cs",
+              "ToolTip": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\Models\\Order.cs",
+              "RelativeToolTip": "Northwind.MySQL\\Models\\Order.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T21:25:43.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Northwind.MySQL",
+              "DocumentMoniker": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\Northwind.MySQL.csproj",
+              "RelativeDocumentMoniker": "Northwind.MySQL\\Northwind.MySQL.csproj",
+              "ToolTip": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\Northwind.MySQL.csproj",
+              "RelativeToolTip": "Northwind.MySQL\\Northwind.MySQL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-25T21:21:04.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Northwind.MySQL\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Northwind.MySQL\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAqwHkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T18:30:24.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\Program.cs",
+              "RelativeDocumentMoniker": "Northwind.MySQL\\Program.cs",
+              "ToolTip": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\Program.cs",
+              "RelativeToolTip": "Northwind.MySQL\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T18:08:33.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\Data\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "Northwind.MySQL\\Data\\NorthwindContext.cs",
+              "ToolTip": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\Data\\NorthwindContext.cs",
+              "RelativeToolTip": "Northwind.MySQL\\Data\\NorthwindContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:51:59.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\appsettings.json",
+              "RelativeDocumentMoniker": "Northwind.MySQL\\appsettings.json",
+              "ToolTip": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\appsettings.json",
+              "RelativeToolTip": "Northwind.MySQL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T06:13:16.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Northwind.MySQL\\Models\\Product.cs",
+              "ToolTip": "E:\\2024\\ASP.NET\\Northwind.MySQL\\Northwind.MySQL\\Models\\Product.cs",
+              "RelativeToolTip": "Northwind.MySQL\\Models\\Product.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T18:15:07.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
